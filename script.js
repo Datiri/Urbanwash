@@ -28,4 +28,4 @@ function setFavicon(url) {
     }
     link.href = url;
 }
-setFavicon('assets/img/favicon.ico');
+setFavicon('assets/img/logo.svg');
